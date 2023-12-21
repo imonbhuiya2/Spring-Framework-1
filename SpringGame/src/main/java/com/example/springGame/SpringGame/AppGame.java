@@ -9,6 +9,7 @@ public class AppGame {
         var marioGame = new MarioGame();
         var gameRunner = new GameRunner(marioGame);
         gameRunner.run();
+        //game app
 
     }
 }
